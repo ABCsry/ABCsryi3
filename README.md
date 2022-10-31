@@ -26,7 +26,8 @@ https://github.com/vincentcox/bypass-firewalls-by-DNS-history
 
 通过censys等平台可以查看到证书的对应的ipv4地址
 
-![](media/2020-01-02-01.png)
+![2020-01-02-01](https://user-images.githubusercontent.com/102514905/199037578-44c2166e-d369-40bf-97b2-9d0bf3c8029f.png)
+
 
 3、mail服务
 
