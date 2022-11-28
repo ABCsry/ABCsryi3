@@ -1,4 +1,6 @@
 # ABCsryi3
+# 权限维持图
+![Windows常见持久控制](https://user-images.githubusercontent.com/102514905/204304382-0a24f1fb-01cb-4814-b88e-e4546a52d780.png)
 
 # 绕过CDN寻找真实ip
 
