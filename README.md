@@ -60,3 +60,7 @@ https://github.com/Ridter/get_ip_by_ico/blob/master/get_ip_by_ico.py
 7、SSRF
 
 SSRF和第三种mail服务有异曲同工之妙，都是利用其内部服务器访问我们。在SSRF中我们可以nc监听服务器80端口,然后使用SSRF漏洞向我们公网ip得80端口发送http请求，从而得到真实ip。
+
+## gitlab 渗透大法
+https://mp.weixin.qq.com/s/hGdsl7GrXswF4JL_VMjr-g
+参照 gitlab_hashes.json 哇
