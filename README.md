@@ -63,4 +63,7 @@ SSRF和第三种mail服务有异曲同工之妙，都是利用其内部服务器
 
 ## gitlab 渗透大法
 https://mp.weixin.qq.com/s/hGdsl7GrXswF4JL_VMjr-g
+
 参照 gitlab_hashes.json 哇
+
+记得 /explore 
