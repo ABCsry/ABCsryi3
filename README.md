@@ -67,3 +67,6 @@ https://mp.weixin.qq.com/s/hGdsl7GrXswF4JL_VMjr-g
 参照 gitlab_hashes.json 哇
 
 记得 /explore 
+## 搜索大法好
+
+![image](https://github.com/ABCsry/ABCsryi3/assets/102514905/c83c474d-1a6e-488c-9cd0-baa50e18b855)
