@@ -30,6 +30,7 @@ https://github.com/vincentcox/bypass-firewalls-by-DNS-history
 
 ![2020-01-02-01](https://user-images.githubusercontent.com/102514905/199037578-44c2166e-d369-40bf-97b2-9d0bf3c8029f.png)
 
+十六进制 转十进制在线  https://jisuan5.com/hexadecimal-to-decimal/
 
 3、mail服务
 
